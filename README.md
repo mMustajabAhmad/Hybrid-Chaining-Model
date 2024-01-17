@@ -1,5 +1,5 @@
 # Hybrid-Chaining-Model
- Data Structures Project
+### **Data Structures Project**
 
 This project implements a Hybrid Chaining Model that combines AVL trees and Binary Search Trees (BSTs) for efficient data storage and retrieval. It is designed to showcase the integration of these two data structures for an optimized approach to managing data.
 
